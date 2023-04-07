@@ -1,0 +1,99 @@
+
+{"result" : [  {
+        "id" : "234a",
+        "name":"CTR Sparkle ",
+        "type": "Sterling Silver",  
+        "price":200.50, 
+        "imageUrl":"../images/ctrSparkle.jpg"
+ },
+
+    {
+        "id": "235b",
+        "name": "one Moment in time",
+        "type":"Titanium",
+        "price":150.45,
+        "imageUrl":"../images/oneMoment.jpg"
+    },
+
+    {
+        "id":"236c",
+        "name":"forget me not",
+        "type":"Sterling Silver",
+        "price":400.00,
+        "imageUrl":"../images/forgetMeNot.jpg"
+
+    },
+
+    {
+        "id":"237d",
+        "name":"Classic mini",
+        "type":"Silver",
+        "price":100.00,
+        "imageUrl":"../images/ClassicMini.jpg"
+
+    },
+
+    {
+        "id":"238e",
+        "name":"Daisy",
+        "type":"Stainless steel",
+        "price":230.00,
+        "imageUrl":"../images/daisy.jpg"
+
+    },
+
+    {
+        "id":"239f",
+        "name":"Stackable",
+        "type":"Stainless steel",
+        "price":400.00,
+        "imageUrl":"../images/stackable.jpg"
+
+    },
+
+    {
+        "id":"240g",
+        "name":"Horseshoe Nail",
+        "type":"Stainless steel",
+        "price":130.00,
+        "imageUrl":"../images/horseshoeNail.jpg"
+
+
+    },
+
+    {
+        "id":"241h",
+        "name":"Flower Petals",
+        "type":"Sterling Silver",
+        "price":377.99,
+        "imageUrl":"../images/flowerPetals.jpg"
+
+    },
+
+    {
+        "id":"242i",
+        "name":"Astro Ring",
+        "type":"Stainless steel",
+        "price":200.99,
+        "imageUrl":"../images/Astro.webp"
+
+    },
+
+    {
+        "id":"243j",
+        "name":"Stackable Letters",
+        "type":"Stainless steel",
+        "price":100.10,
+        "imageUrl":"../images/stackableLetters.jpg"
+
+    }
+
+
+
+
+
+
+
+
+]    
+}

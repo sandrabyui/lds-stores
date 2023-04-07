@@ -1,0 +1,112 @@
+{
+
+    "result": [{
+            "id": "434a",
+            "name": "Average Bust Crossover",
+            "type":"Women strech cotton",
+            "price": 3.94,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women1.jpg"
+        },
+
+        {
+            "id": "435b",
+            "name": "Waist knee length ",
+            "type":"Women strech cotton",
+            "price": 3.28,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women2.jpg"
+        },
+
+        {
+            "id": "436c",
+            "name": "Waist Midcalf ",
+            "type":"Women strech cotton",
+            "price": 4.76,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women3.jpg"
+        },
+
+        {
+            "id": "437d",
+            "name": "Carinessa Chemise ",
+            "type":"cotton",
+            "price": 3.94,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women3.jpg"
+        },
+
+        {
+            "id": "438e",
+            "name": "Carinessa Natural waist",
+            "type":"knee length",
+            "price": 2.87,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women1.jpg"
+        },
+
+        {
+            "id": "439f",
+            "name": "DriSilque Lower ",
+            "type":"Waist knee length",
+            "price": 2.87,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women2.jpg"
+        },
+
+        {
+            "id": "4350g",
+            "name": "DriSilque Natural ",
+            "type":"Waist Midcalf",
+            "price": 4.76,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women3.jpg"
+        },
+
+        {
+            "id": "434a",
+            "name": "Rib Knit",
+            "type":"100% cotton",
+            "price": 200.50,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/women2.jpg"
+        }
+
+       
+
+        
+
+    ]
+}

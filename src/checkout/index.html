@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LDS Stores | Checkout</title>
+    <link rel="stylesheet" href="../css/style.css" /> 
+       <link rel="stylesheet" href="../css/header.css" />
+
+  </head>
+
+  <body>
+    <header class="divider" id="main-header"></header>
+
+    <main class="main">
+      <section class="form-products">
+        <h2>Review & Place your Order</h2>
+        <form id="checkout" name="checkuot" action="#">
+          <fieldset class="data">
+            <legend>Shipping</legend>
+            <div class="inpts name">
+              <label for="fname">First Name:</label>
+              <input type="text" id="fname" name="fname" required />
+            </div>
+            <div class="inpts lname">
+              <label for="lname">Last Name:</label>
+              <input type="text" id="lname" name="lname" value="Martínez" required/>
+            </div>
+            <div class="inpts street">
+              <label for="street">Street:</label>
+              <input type="text" id="street" name="street" value="C/c" required/>
+            </div>
+            <div class="inpts city">
+              <label for="city">City:</label>
+              <input type="text" id="city" name="city" value="León" required/>
+            </div>
+            <div class="inpts state">
+              <label for="state">State:</label>
+              <input type="text" id="state" name="state" value="León" required/>
+            </div>
+            <div class="inpts zip">
+              <label for="zip">Zip:</label>
+              <input type="text" id="zip" name="zip" value="24890" required/>
+            </div>
+          </fieldset>
+
+          <fieldset class="payment">
+            <legend>Payment</legend>
+            <div class="inpts cardNumber">
+              <label for="cardNumber">Card Number</label>
+              <input type="number" name="cardNumber" id="cardNumber" value="1234123412341234" required />
+            </div>
+            <div class="inpts expiration">
+              <label for="expiration">Expiration</label>
+              <!-- <input type="date" name="expiration" id="expiration" required /> -->
+              <input type="text" name="expiration" id="expiration" placeholder="mm/yyyy" required />
+            </div>
+            <div class="inpts code">
+              <label for="code">Security Code</label>
+              <input type="number" name="code" id="code" value="123" required />
+            </div>
+          </fieldset>
+
+          <fieldset class="checkout-summary">
+            <legend>Order Summary</legend>
+            <label for="cartTotal"
+              >Item Shipping(<span id="num-items"></span>)</label
+            >
+            <p name="cartTotal" id="cartTotal"></p>
+            <label for="shipping">Shipping Estimate:</label>
+            <p id="shipping"></p>
+            <label for="tax">Tax:</label>
+            <p id="tax"></p>
+            <label for="orderTotal"><b>Order Total:</b></label>
+            <p id="orderTotal"></p>
+          </fieldset>
+          <button type="submit" id="checkoutSubmit" >Checkout</button>
+        </form>
+      </section>
+    </main>
+
+    <footer id="main-footer"></footer>
+    <script src="../js/checkout.js" type="module"></script>
+    <script src="../js/CheckoutProcess.mjs" type="module"></script>
+  </body>
+</html>

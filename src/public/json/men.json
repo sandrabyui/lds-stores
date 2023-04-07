@@ -1,0 +1,112 @@
+{
+
+    "result": [{
+            "id": "334a",
+            "name": "Men round neck",
+            "type":"Nylon mesh",
+            "price": 3.94,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/men1.jpg"
+        },
+
+        {
+            "id": "335b",
+            "name": "mens boxer-style ",
+            "type":"100% cotton",
+            "price": 3.28,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/man2.jpg"
+        },
+
+        {
+            "id": "336c",
+            "name": "Mens 60/40 one-piece   ",
+            "type":"cotton-poly",
+            "price": 8.76,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/men3.jpg"
+        },
+
+        {
+            "id": "337d",
+            "name": "Mens Thermal bottom ",
+            "type":"cotton",
+            "price": 3.94,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/men3.jpg"
+        },
+
+        {
+            "id": "338e",
+            "name": "Mens Thermal top ",
+            "type":"cotton",
+            "price": 2.87,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/men1.jpg"
+        },
+
+        {
+            "id": "339f",
+            "name": "Mens Millitary crew neck ",
+            "type":"Tan 499 cotton",
+            "price": 2.87,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/man2.jpg"
+        },
+
+        {
+            "id": "440g",
+            "name": "Mens Millitary Brief ",
+            "type":"Coyote Tan 499",
+            "price": 4.76,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/men1.jpg"
+        },
+
+        {
+            "id": "441h",
+            "name": "Mens 60/40 boxer bottom   ",
+            "type":"100% cotton",
+            "price": 2.50,
+            "sizes":{
+                "large":"xl-3xll",
+                "medium":"md-sm",
+                "small": "xs-2xs"
+            },
+            "imageUrl": "../images/man2.jpg"
+        }
+
+       
+
+        
+
+    ]
+}
